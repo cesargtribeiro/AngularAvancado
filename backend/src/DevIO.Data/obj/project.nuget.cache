@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BZAf3cwRgPKm7j0fZmpO8I5qwpVs9n0UNQ8yxOmW+3t9BEN/tx3Rl099BlA0fXZ0oUu9LYbql8D0CARI1P1ykw==",
+  "dgSpecHash": "D1Sj1hY3sWT0xKhUhW9/GY+hdYrcifzcps2DIkrErMz1i8OsQ0bjKogmpYiYbURutWZi91yHOP4bV7u+geDFiA==",
   "success": true,
-  "projectFilePath": "E:\\Projetos\\Angular\\ProjetoFinal\\backend\\src\\DevIO.Data\\DevIO.Data.csproj",
+  "projectFilePath": "E:\\Projetos\\Angular\\ProjetoFinal\\AngularAvancado\\backend\\src\\DevIO.Data\\DevIO.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cesar\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\Cesar\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

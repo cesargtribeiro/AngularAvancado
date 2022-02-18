@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projetos\\Angular\\ProjetoFinal\\backend\\src\\DevIO.Business\\DevIO.Business.csproj": {}
+    "E:\\Projetos\\Angular\\ProjetoFinal\\AngularAvancado\\backend\\src\\DevIO.Business\\DevIO.Business.csproj": {}
   },
   "projects": {
-    "E:\\Projetos\\Angular\\ProjetoFinal\\backend\\src\\DevIO.Business\\DevIO.Business.csproj": {
+    "E:\\Projetos\\Angular\\ProjetoFinal\\AngularAvancado\\backend\\src\\DevIO.Business\\DevIO.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projetos\\Angular\\ProjetoFinal\\backend\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectUniqueName": "E:\\Projetos\\Angular\\ProjetoFinal\\AngularAvancado\\backend\\src\\DevIO.Business\\DevIO.Business.csproj",
         "projectName": "DevIO.Business",
-        "projectPath": "E:\\Projetos\\Angular\\ProjetoFinal\\backend\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectPath": "E:\\Projetos\\Angular\\ProjetoFinal\\AngularAvancado\\backend\\src\\DevIO.Business\\DevIO.Business.csproj",
         "packagesPath": "C:\\Users\\Cesar\\.nuget\\packages\\",
-        "outputPath": "E:\\Projetos\\Angular\\ProjetoFinal\\backend\\src\\DevIO.Business\\obj\\",
+        "outputPath": "E:\\Projetos\\Angular\\ProjetoFinal\\AngularAvancado\\backend\\src\\DevIO.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

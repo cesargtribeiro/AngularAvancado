@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cH1VpNRnnvgyt3LMPB9NRrmLBi6OUAFl9MF2SSOlBotXx4AYZBnLfPCkxdr8Vb2vKdw/J1cIUGTUcbGyJLEkiw==",
+  "dgSpecHash": "TR4ZHO5rFFe5b+kmTiwff4bSxo4pUotcoqmIkT43XbHweImSEmEujJpULYM08x0uuC4G1oeiLYQvd2/sVXAVLQ==",
   "success": true,
-  "projectFilePath": "E:\\Projetos\\Angular\\ProjetoFinal\\backend\\src\\DevIO.Api\\DevIO.Api.csproj",
+  "projectFilePath": "E:\\Projetos\\Angular\\ProjetoFinal\\AngularAvancado\\backend\\src\\DevIO.Api\\DevIO.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cesar\\.nuget\\packages\\aspnetcore.healthchecks.sqlserver\\3.1.1\\aspnetcore.healthchecks.sqlserver.3.1.1.nupkg.sha512",
     "C:\\Users\\Cesar\\.nuget\\packages\\aspnetcore.healthchecks.ui\\3.1.0\\aspnetcore.healthchecks.ui.3.1.0.nupkg.sha512",
